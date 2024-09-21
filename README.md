@@ -1,1 +1,1 @@
-# Studying Operating System in Ubuntu
+# Studying Operating Systems on Ubuntu
